@@ -1,4 +1,4 @@
-# Project for Adding and Improving Features in FEMU
+# FEMU opensource project
 
 <img width="794" alt="image" src="https://github.com/sh3866/data_analytics_project/assets/86151442/d225ec88-615b-4b7b-aafb-e104202cbc50">
 
@@ -15,7 +15,7 @@ Implementing new features to FEMU
 
 ## 🥅 프로젝트 목표
 Understanding of
-- The underlying geometry of your emulated device (LUN, line, block, page, OP, …)
+- The underlying geometry of the emulated device (LUN, line, block, page, OP, …)
 - How a read or a write request is processed (separate paths, address mapping, …)
 - How GC is invoked (triggering condition, detailed operation, …)
 - How IOPS and WAF are obtained
